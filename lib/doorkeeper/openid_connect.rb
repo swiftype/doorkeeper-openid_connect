@@ -20,6 +20,7 @@ require 'doorkeeper/openid_connect/oauth/pre_authorization'
 require 'doorkeeper/openid_connect/oauth/token_response'
 
 require 'doorkeeper/openid_connect/orm/active_record'
+require 'doorkeeper/openid_connect/orm/mongoid5'
 
 require 'doorkeeper/openid_connect/rails/routes'
 
